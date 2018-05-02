@@ -1,0 +1,20 @@
+h1 {
+  font-family: "Helvetica";
+}
+h2 {
+  font-family: "Helvetica";
+}
+header{
+  color:white;
+  background-color: pink;
+
+}
+p{
+  font-size: 22px;
+  line-height: 33px;
+}
+
+li{
+  font-size: 22px;
+  line-height: 33px;
+}
