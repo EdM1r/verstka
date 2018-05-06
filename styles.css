@@ -1,20 +1,21 @@
 h1 {
-  font-family: "Helvetica";
+  font-family: Helvetica, sans-serif;
+  margin-bottom: -15px;
+
 }
 h2 {
-  font-family: "Helvetica";
+  font-family: Helvetica, sans-serif;
 }
-header{
+header, nav{
   color:white;
-  background-color: pink;
-
+  background-color: palevioletred;
+  padding-bottom: 40px;
 }
-p{
+body {
   font-size: 22px;
   line-height: 33px;
 }
 
-li{
-  font-size: 22px;
-  line-height: 33px;
+.landing-selection-whoami {
+  padding-top: 50px;
 }
